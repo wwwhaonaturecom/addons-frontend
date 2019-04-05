@@ -1,6 +1,7 @@
 /* global window */
 import querystring from 'querystring';
 
+import FormData from '@willdurand/isomorphic-formdata';
 import config from 'config';
 import utf8 from 'utf8';
 
